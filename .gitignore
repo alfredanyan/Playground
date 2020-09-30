@@ -1,0 +1,7 @@
+Scratchboard/*
+*/Debug/*
+*/*.sln
+*/*.vcxproj
+*/*.filters
+*/*.user
+*/.vs/*
